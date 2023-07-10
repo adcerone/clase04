@@ -1,0 +1,40 @@
+* {
+    margin: 10px;
+    padding: 10px0;  
+  }
+  
+    .section:nth-child(odd) {
+    background-color: #F0F7EE; 
+  }
+  
+  .section:nth-child(even) {
+    background-color: #FFFCF9; 
+  }
+  
+
+  h1 {
+    color: #333333; 
+  }
+  
+  h2 {
+    color: #2C6975; 
+  }
+  
+  h3 {
+    color: #728194; 
+  }
+  
+  
+  li {
+    color: #555555;
+  }
+  
+    .icon-link img {
+    margin-right: 5px;
+    vertical-align: middle;
+  }
+    
+
+  p {
+    color: #777777; 
+  }
